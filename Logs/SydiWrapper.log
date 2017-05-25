@@ -1,0 +1,31 @@
+************************************************************
+* Running SYDI-Wrapper v.0.2.3
+* SYDISERVER: C:\sydi\sydi-server.vbs
+* OUTPUTDIRECTORY: C:\sydi\Output\
+* LOGDIRECTORY: C:\sydi\Logs\
+* TIMEOUT: 600 seconds
+* Time of Scan: 5/4/2017 2:56:20 PM
+* Current Options: C:\sydi\sydi-server.vbs -wabefghipPqrsSu -racdklp -ex
+*   -t%Computer% -oC:\sydi\Output\%Computer%.xml -sh
+* Targeting computers from file
+* Using list from: ALLMYCOMPUTERS.TXT
+* Hosts Selected: 1
+************************************************************
+
+
+************************************************************
+* Testing connection and passing to SYDI
+*
+* Testing connection to hrtv-kas006.corp.battplus.co (1/1)
+* Passing hrtv-kas006.corp.battplus.co to SYDI-Server
+************************************************************
+
+
+************************************************************
+* Status
+*
+* ErrorNumber: 0
+* Description: Passed to SYDI-Server
+*    hrtv-kas006.corp.battplus.co
+*
+************************************************************
